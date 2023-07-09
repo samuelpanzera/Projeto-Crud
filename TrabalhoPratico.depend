@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1688006771 source:d:\puc\tp-aed1\trabalhopratico\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"menuSelecionavel.h"
+
+1687566540 source:d:\puc\tp-aed1\trabalhopratico\src\veiculo.cpp
+	"veiculo.h"
+
+1687566540 d:\puc\tp-aed1\trabalhopratico\include\veiculo.h
+
+1688004807 source:d:\puc\tp-aed1\trabalhopratico\veiculo.cpp
+	"Veiculo.h"
+	<iostream>
+
+1688005328 d:\puc\tp-aed1\trabalhopratico\veiculo.h
+	<string>
+	<iostream>
+
+1687919923 d:\puc\tp-aed1\trabalhopratico\menuselecionavel.h
+	<conio.h>
+	<windows.h>
+
+1688044537 source:c:\users\1339410\downloads\trabalhopratico\veiculo.cpp
+	"Veiculo.h"
+	<iostream>
+
+1688044487 c:\users\1339410\downloads\trabalhopratico\veiculo.h
+	<string>
+	<iostream>
+
+1688043997 source:c:\users\1339410\downloads\trabalhopratico\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"menuSelecionavel.h"
+
+1687919923 c:\users\1339410\downloads\trabalhopratico\menuselecionavel.h
+	<conio.h>
+	<windows.h>
+
+1688091701 source:d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico\veiculo.cpp
+	"Veiculo.h"
+	<iostream>
+
+1688092696 d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico\veiculo.h
+	<string>
+	<iostream>
+
+1688093076 source:d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"menuSelecionavel.h"
+
+1688094852 d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico\menuselecionavel.h
+	<conio.h>
+	<windows.h>
+
+1688093076 source:d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico_samuelpanzera\tp_samuel_panzera\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"veiculo.h"
+	"menuSelecionavel.h"
+
+1688092696 d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico_samuelpanzera\tp_samuel_panzera\veiculo.h
+	<string>
+	<iostream>
+
+1688094852 d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico_samuelpanzera\tp_samuel_panzera\menuselecionavel.h
+	<conio.h>
+	<windows.h>
+
+1688091701 source:d:\puc\tp-aed1\teoricamente mais recente\trabalhopratico_samuelpanzera\tp_samuel_panzera\veiculo.cpp
+	"Veiculo.h"
+	<iostream>
+
